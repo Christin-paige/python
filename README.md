@@ -13,3 +13,4 @@
 * Python has been successfully installed
 * I created and managed virtual environments
 * I used pip to install and manage packages (math, bcryt, ipython)
+* Implemented conditional statements, loops, and functions to build my recipe app in the command line.
