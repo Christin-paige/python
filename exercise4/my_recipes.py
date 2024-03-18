@@ -1,5 +1,4 @@
 import pickle
-
 data = {
     "recipes_list": [
         {
