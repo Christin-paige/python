@@ -14,3 +14,4 @@
 * I created and managed virtual environments
 * I used pip to install and manage packages (math, bcryt, ipython)
 * Implemented conditional statements, loops, and functions to build my recipe app in the command line.
+* Used MySQL to store the recipes into a database with the functionality of creating a recipe, updating a recipe, searching for a recipe containing a specific ingredient, and deleting recipes.
